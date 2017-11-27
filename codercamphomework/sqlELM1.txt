@@ -1,0 +1,26 @@
+select *
+from albums
+where title like 'a%'
+
+exercise 2
+
+ 
+select *
+from invoices
+where InvoiceId in('2','4','6','7','9','10')
+
+
+exercise 3
+ 
+select *
+from Playlists
+where Name != "Music" and Name !="Movies"
+
+
+exercise 4
+
+select Name,Composer 
+from tracks
+where UnitPrice = '.99' 
+and Bytes < '8000000'
+and Name like 'a%'or name like 'c%'

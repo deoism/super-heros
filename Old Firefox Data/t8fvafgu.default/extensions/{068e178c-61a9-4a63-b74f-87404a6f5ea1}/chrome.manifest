@@ -1,0 +1,5 @@
+content vidadblocker2 chrome/content/
+content vidadblocker2 chrome/content/ contentaccessible=yes
+resource    vidadblocker2  modules/
+overlay chrome://browser/content/browser.xul chrome://vidadblocker2/content/main.xul
+skin    vidadblocker2  classic/1.0 chrome/skin/

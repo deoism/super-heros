@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A+95YOsmUSORq3iNfAf0AQ==
+SHA1-Digest: wPUB4w9Hp9YmTV4wffEBccypB6I=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E1OCAY+3wrkazak7gGyxeg==
+SHA1-Digest: aTe1fKeupNPAdcouTHHr52v8bcM=
+
+Name: chrome/content/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9942ie4BW76z5+c64kXxmQ==
+SHA1-Digest: xWgJI2fY7Fa87/UM7RFupLCRJjo=
+
+Name: chrome/content/main.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QPwMBPsHjYdFQWL/QzF00w==
+SHA1-Digest: SNIY/XtJI4huQxRSNVnkB4yM8QI=
+
+Name: chrome/content/webtr.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iz1cQc++9EZxj9yjpqqhjg==
+SHA1-Digest: AlblAUCtRRutlyk0gjqwwtsrcdQ=
+
+Name: modules/PrefMan.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ktIKtVCkXJC0GmNnFM8ohA==
+SHA1-Digest: ZMVWHHQUnWntDhtXZtrlWvazV4Y=
+
+Name: modules/Settings.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RIJPHLMxLQGxysZlfuaGjg==
+SHA1-Digest: 1Use7Y3og8sjiog82giQeYeaxFo=
+

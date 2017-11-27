@@ -1,0 +1,18 @@
+1 - npm install mongoose
+2-go to app.js
+
+3-add to app.js "
+
+var app = express();
+const mongoose = mongoose.connection;
+db.on("error", console.error.bind(console, "CONNECTION FAILURE, GO HOME:"));
+db.once("open", function(
+    console.log("you db is good to go ");
+))
+
+mongoose.connect(
+   (m) "mongodb://admin:fresh@...../deoism"
+)
+
+
+4-npm start

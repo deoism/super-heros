@@ -1,0 +1,24 @@
+{
+  "name": "reactrouting",
+  "version": "1.0.0",
+  "description": "react routing lesson",
+  "main": "Apps.js",
+  "scripts": {
+    "test": "import"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deoism/reactRouter.git"
+  },
+  "keywords": [
+    "react",
+    "routing",
+    "lessons"
+  ],
+  "author": "Anthony Dickerson <deoism@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deoism/reactRouter/issues"
+  },
+  "homepage": "https://github.com/deoism/reactRouter#readme"
+}

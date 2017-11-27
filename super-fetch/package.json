@@ -1,0 +1,29 @@
+{
+  "name": "super-fetch",
+  "description": "So we're gonna do a little min hero. \n1. We'll want to fetch our payload of hero's from `https://raw.githubusercontent.com/jtomchak/super-heroes/master/superhero.json`\n2. The catch is, we want to be able to type in one of the heroes into the input, and have their details presented in the body of our app component. \n3. Good Luck!",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "npm": "^5.5.1",
+    "react": "^16.1.0",
+    "react-bootstrap": "0.31.5",
+    "react-dom": "16.0.0",
+    "react-router-dom": "^4.2.2",
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.0",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "scripts": {
+    "start:dev": "webpack-dev-server start",
+    "build:dev": "webpack-dev-server build",
+	"start": "react-scripts start",
+	"build": "react-scripts-build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "author": "Anthony Dickerson <deoism@gmail.com>",
+  "license": "ISC"
+}

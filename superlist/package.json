@@ -1,0 +1,30 @@
+{
+  "name": "super-list",
+  "description": "So we have an input and a dropdown, with Backlog or In Progress. \n1. Create a handle on Submit method that will add our input it's respective list. If the dropdown is 'backlog', add it to our backlog list, if the dropdown is 'in progress' add it to our in progress list.\n1a. We want to add a unique id to each item each todo so the todo object should look like this. \n{\nid: 11,\ntodo: \"Backlog\",\ntodoItem: \"Morning Challenge\",\n}\n2.  Rad. Be sure to 'reset' the todo item field after handling the submit, so that the field is empty and ready for another input.\n3. Sweet. Now Create 2 components using the provided files BackLogList.js and InProgressList.js to pass each list array as props and have them render the list as a child of index.js. !!!!!!!!!!\n",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "react": "^16.0.0",
+    "react-bootstrap": "0.31.5",
+    "react-dom": "16.0.0",
+    "react-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack-dev-server build",
+    "start-react": "react-scripts start",
+    "build-react": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "deoismsuperlist"
+  },
+  "author": "Anthony Dickerson <deoism@gmail.com>",
+  "license": "ISC"
+}

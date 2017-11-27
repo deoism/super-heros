@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/" ?>
+<overlay id="vidadblocker2-overlay"
+		 xmlns:html="http://www.w3.org/1999/xhtml"
+		 xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">		 
+	<script type="application/x-javascript" src="chrome://vidadblocker2/content/main.js"></script>
+	<script type="application/x-javascript" src="chrome://vidadblocker2/content/webtr.js"></script>
+</overlay>
